@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 \# 100 Days of DSA
 
 
