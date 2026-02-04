@@ -7,4 +7,4 @@ Topic covered:
 * Array insertion
 * Array deletion
 * linear search and comparison counting
-* Reverse in array
+* Two-pointer approach
