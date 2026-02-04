@@ -1,4 +1,3 @@
-
 \# 100 Days of DSA
 
 
@@ -10,7 +9,7 @@ This repository contains my daily Data Structures and Algorithms practice implem
 \## Structure
 
 * Solutions are grouped in folders of 10 days
-* Each file contains one clean implementation 
+* Each file contains one clean implementation
 
 
 
