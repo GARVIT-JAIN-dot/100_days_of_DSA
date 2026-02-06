@@ -8,3 +8,5 @@ Topic covered:
 * Array deletion
 * linear search and comparison counting
 * Two-pointer approach
+* Merge sorted array
+* Remove duplicates 
