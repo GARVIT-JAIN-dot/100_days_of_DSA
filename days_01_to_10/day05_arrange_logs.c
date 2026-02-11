@@ -70,4 +70,6 @@ int main (){
      for(int i = 0;i < p+q; i++) {
         printf("%d ",all[i]);
      }
+
+     return 0;
 }

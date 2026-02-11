@@ -9,4 +9,8 @@ Topic covered:
 * linear search and comparison counting
 * Two-pointer approach
 * Merge sorted array
-* Remove duplicates 
+* Remove duplicates
+* recursive Fibonacci
+* recursion power
+* mirror string
+* palindrome check
