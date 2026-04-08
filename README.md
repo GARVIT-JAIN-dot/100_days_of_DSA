@@ -67,4 +67,5 @@ To build strong fundamentals in Data Structures and Algorithms.
 38. deque operations
 39. Min Heap Implementation
 40. Heap Sort using Max-heap
+41. Queue Using Linked-List
 
