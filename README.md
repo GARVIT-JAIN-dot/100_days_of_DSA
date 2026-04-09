@@ -70,4 +70,6 @@ To build strong fundamentals in Data Structures and Algorithms.
 41. Queue Using Linked-List
 42. Reverse a Queue Using Stack
 43. Binary Tree Construction(Level Order)
+44. Binary Tree Traversals
+45. Height of a Binary Tree
 
