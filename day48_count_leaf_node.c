@@ -1,4 +1,4 @@
-/* Problem: Height of Binary Tree
+/* Problem: Count Leaf Nodes
 
 Implement the solution for this problem.
 
@@ -9,9 +9,9 @@ Output:
 - Output specifications */
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
 
 #define MAX 1000
+
 struct TreeNode {
     int val;
     struct TreeNode* left;
@@ -55,17 +55,17 @@ struct TreeNode* buildTree(int arr[], int n) {
     return root;
 }
 
-int height(struct TreeNode* root) {
+int countLeaves(struct TreeNode* root) {
     if (root == NULL) return 0;
 
-    int left = height(root->left);
-    int right = height(root->right);
+    if (root->left == NULL && root->right == NULL)
+        return 1;
 
-    return (left > right ? left : right) + 1;
+    return countLeaves(root->left) + countLeaves(root->right);
 }
 
 int main() {
-    int arr[MAX], n = 0;
+    int n, arr[MAX];
 
     printf("Enter number of elements:\n");
     scanf("%d", &n);
@@ -77,7 +77,9 @@ int main() {
 
     struct TreeNode* root = buildTree(arr, n);
 
-    printf("Height of Binary Tree: %d\n", height(root));
+    int result = countLeaves(root);
+
+    printf("Number of leaf nodes: %d\n", result);
 
     return 0;
-}
+} 
