@@ -73,4 +73,5 @@ To build strong fundamentals in Data Structures and Algorithms.
 44. Binary Tree Traversals
 45. Height of a Binary Tree
 46. Level Order Traversal
+47. Binary Tree Height
 
