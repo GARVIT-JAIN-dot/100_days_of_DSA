@@ -75,4 +75,5 @@ To build strong fundamentals in Data Structures and Algorithms.
 46. Level Order Traversal
 47. Binary Tree Height
 48. Count Leaf Nodes
+49. BST Insert
 
