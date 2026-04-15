@@ -77,4 +77,6 @@ To build strong fundamentals in Data Structures and Algorithms.
 48. Count Leaf Nodes
 49. BST Insert
 50. BST Search
+51. Lowest Common Ancestor (LCA) in BST
+52. 
 
