@@ -78,5 +78,6 @@ To build strong fundamentals in Data Structures and Algorithms.
 49. BST Insert
 50. BST Search
 51. Lowest Common Ancestor (LCA) in BST
-52. 
+52. LCA in Binary Tree
+53. 
 
