@@ -79,5 +79,6 @@ To build strong fundamentals in Data Structures and Algorithms.
 50. BST Search
 51. Lowest Common Ancestor (LCA) in BST
 52. LCA in Binary Tree
-53. 
+53. Print Binary Tree Vertical Order
+54. Zigzag Traversal
 
