@@ -83,4 +83,8 @@ To build strong fundamentals in Data Structures and Algorithms.
 54. Zigzag Traversal
 55. Right View of Binary Tree
 56. Symmetric Binary Tree Check
+57. Mirror a Binary Tree
+58. Build Tree from Inorder \& Preorder
+59. Build Tree from Inorder \& Postorder
+60. Validate Min-Heap
 
