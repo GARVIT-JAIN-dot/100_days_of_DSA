@@ -82,4 +82,5 @@ To build strong fundamentals in Data Structures and Algorithms.
 53. Print Binary Tree Vertical Order
 54. Zigzag Traversal
 55. Right View of Binary Tree
+56. Symmetric Binary Tree Check
 
