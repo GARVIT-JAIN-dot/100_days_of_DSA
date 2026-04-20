@@ -88,4 +88,12 @@ To build strong fundamentals in Data Structures and Algorithms.
 59. Build Tree from Inorder \& Postorder
 60. Validate Min-Heap
 61. Graph Representation Using Adjacency Matrix
+62. Graph Representation Using Adjacency List
+63. Depth First Search (DFS)
+64. Breadth First Search (BFS)
+65. Cycle Detection in Undirected Graph (DFS)
+66. Cycle Detection in Directed Graph
+67. Topological Sort (DFS)
+68. Topological Sort (Kahn's BFS Algorithm)
+69. Dijkstra’s Algorithm (Shortest Path)
 
