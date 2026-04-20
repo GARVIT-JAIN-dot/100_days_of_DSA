@@ -87,4 +87,5 @@ To build strong fundamentals in Data Structures and Algorithms.
 58. Build Tree from Inorder \& Preorder
 59. Build Tree from Inorder \& Postorder
 60. Validate Min-Heap
+61. Graph Representation Using Adjacency Matrix
 
