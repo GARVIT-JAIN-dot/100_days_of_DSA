@@ -97,4 +97,5 @@ To build strong fundamentals in Data Structures and Algorithms.
 68. Topological Sort (Kahn's BFS Algorithm)
 69. Dijkstra’s Algorithm (Shortest Path)
 70. Bellman-Ford Algorithm
+71. Hash Table Using Quadratic Probing
 
