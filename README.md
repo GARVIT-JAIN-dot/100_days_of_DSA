@@ -98,4 +98,7 @@ To build strong fundamentals in Data Structures and Algorithms.
 69. Dijkstra’s Algorithm (Shortest Path)
 70. Bellman-Ford Algorithm
 71. Hash Table Using Quadratic Probing
+72. First Repeated Character
+73. First Non-Repeating Character
+74. 
 
