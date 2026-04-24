@@ -100,5 +100,6 @@ To build strong fundamentals in Data Structures and Algorithms.
 71. Hash Table Using Quadratic Probing
 72. First Repeated Character
 73. First Non-Repeating Character
-74. 
+74. Winner of an Election
+75. 
 
