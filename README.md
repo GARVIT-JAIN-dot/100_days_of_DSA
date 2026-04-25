@@ -101,5 +101,6 @@ To build strong fundamentals in Data Structures and Algorithms.
 72. First Repeated Character
 73. First Non-Repeating Character
 74. Winner of an Election
-75. 
+75. Largest Subarray with Zero Sum
+76. 
 
