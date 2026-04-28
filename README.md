@@ -104,4 +104,5 @@ To build strong fundamentals in Data Structures and Algorithms.
 75. Largest Subarray with Zero Sum
 76. Count Connected Components (Undirected Graph)
 77. Check if Graph is Connected
+78. Minimum Spanning Tree using Prim’s Algorithm
 
