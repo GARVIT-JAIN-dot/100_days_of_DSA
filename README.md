@@ -105,4 +105,6 @@ To build strong fundamentals in Data Structures and Algorithms.
 76. Count Connected Components (Undirected Graph)
 77. Check if Graph is Connected
 78. Minimum Spanning Tree using Prim’s Algorithm
+79. Single Source Shortest Path using Dijkstra’s Algorithm
+80. Floyd-Warshall Algorithm
 
