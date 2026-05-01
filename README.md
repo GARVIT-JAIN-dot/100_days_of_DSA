@@ -107,4 +107,6 @@ To build strong fundamentals in Data Structures and Algorithms.
 78. Minimum Spanning Tree using Prim’s Algorithm
 79. Single Source Shortest Path using Dijkstra’s Algorithm
 80. Floyd-Warshall Algorithm
+81. Implement Bubble Sort
+82. Upper Bound \& Lower Bound Implementation
 
