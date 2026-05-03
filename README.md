@@ -110,4 +110,6 @@ To build strong fundamentals in Data Structures and Algorithms.
 81. Implement Bubble Sort
 82. Upper Bound \& Lower Bound Implementation
 83. Implement Selection Sort
+84. Implement Insertion Sort
+85. Implement Merge Sort
 
