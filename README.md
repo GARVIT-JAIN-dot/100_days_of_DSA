@@ -113,4 +113,5 @@ To build strong fundamentals in Data Structures and Algorithms.
 84. Implement Insertion Sort
 85. Implement Merge Sort
 86. Square Root using Binary Search
+87. Implement Binary Search Iterative
 
