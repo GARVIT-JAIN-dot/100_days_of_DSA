@@ -116,4 +116,5 @@ To build strong fundamentals in Data Structures and Algorithms.
 87. Implement Binary Search Iterative
 88. Aggressive Cows Problem
 89. Allocate Minimum Pages
+90. Painter Partition Problem
 
