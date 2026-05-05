@@ -114,4 +114,5 @@ To build strong fundamentals in Data Structures and Algorithms.
 85. Implement Merge Sort
 86. Square Root using Binary Search
 87. Implement Binary Search Iterative
+88. Aggressive Cows Problem
 
