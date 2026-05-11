@@ -118,4 +118,15 @@ To build strong fundamentals in Data Structures and Algorithms.
 89. Allocate Minimum Pages
 90. Painter Partition Problem
 91. Merge Sort Implementation
+92. Quick Sort Implementation
+93. Insertion Sort Implementation
+94. Counting Sort Implementation
+95. Bucket Sort (Float Values 0–1)
+96. Counting Inversions in Array
+97. Meeting Rooms Scheduling
+98. Merge Overlapping Intervals
+99. Car Fleet Calculation
+100. Count Inversions in Array
+
+
 
