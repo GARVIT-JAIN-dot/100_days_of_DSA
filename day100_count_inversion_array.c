@@ -8,8 +8,7 @@ struct Item {
     int index;
 };
 
-void merge(struct Item arr[], int left, int mid, int right,
-           int count[]) {
+void merge(struct Item arr[], int left, int mid, int right,int count[]) {
 
     int n1 = mid - left + 1;
     int n2 = right - mid;
@@ -42,9 +41,7 @@ void merge(struct Item arr[], int left, int mid, int right,
     }
 
     while (i < n1) {
-
         count[L[i].index] += rightCount;
-
         arr[k++] = L[i++];
     }
 
@@ -53,8 +50,7 @@ void merge(struct Item arr[], int left, int mid, int right,
     }
 }
 
-void mergeSort(struct Item arr[], int left,
-               int right, int count[]) {
+void mergeSort(struct Item arr[], int left,int right, int count[]) {
 
     if (left < right) {
 
