@@ -53,20 +53,7 @@ void merge(struct Item arr[], int left, int mid, int right,
     }
 }
 
-void mergeSort(struct Item arr[], int left,
-               int right, int count[]) {
 
-    if (left < right) {
-
-        int mid = left + (right - left) / 2;
-
-        mergeSort(arr, left, mid, count);
-
-        mergeSort(arr, mid + 1, right, count);
-
-        merge(arr, left, mid, right, count);
-    }
-}
 
 int main() {
 
@@ -98,6 +85,6 @@ int main() {
     for (int i = 0; i < n; i++) {
         printf("%d ", count[i]);
     }
-    
+
     return 0;
 } 
