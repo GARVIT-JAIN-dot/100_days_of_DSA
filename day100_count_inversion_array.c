@@ -90,7 +90,6 @@ int main() {
 
         count[i] = 0;
     }
-
     mergeSort(arr, 0, n - 1, count);
 
     printf("Count of smaller elements on right:\n");
@@ -98,6 +97,5 @@ int main() {
     for (int i = 0; i < n; i++) {
         printf("%d ", count[i]);
     }
-
     return 0;
 } 
